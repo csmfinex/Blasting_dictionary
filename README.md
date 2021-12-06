@@ -1,2 +1,2 @@
-# Blasting_dictionary
+# Dictionary
 爆破字典
